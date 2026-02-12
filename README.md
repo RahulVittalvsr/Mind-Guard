@@ -16,4 +16,4 @@
   - `nltk` (Natural Language Processing)
   - `numpy` (Numerical operations)
 
-## 📂 Project Structure
+## 📂 Project  Structure
